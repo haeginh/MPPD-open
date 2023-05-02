@@ -1,0 +1,3 @@
+[submodule "mppd"]
+	path = mppd
+	url = git@github.com:haeginh/MPPD.git
