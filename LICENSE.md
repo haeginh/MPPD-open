@@ -1,6 +1,6 @@
 Agreement for Research or Noncommercial Usage
 =============================================
-version 1.0, January 2023
+*version 1.0, January 2023*
 
 Article 1 (Purpose)
 -------------------
